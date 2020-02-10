@@ -23,7 +23,7 @@
 
 	<div class="wrapper">
 	<section>
-		<h2>Zapaterias pirma la mejor opcion</h2>
+		<h2>Zapaterias Pirma la mejor opcion</h2>
 		<p>Pirma es una sociedad de tipo mecantil, mexicana fabricante y distribuidora de ropa y calzado deportivos con sede en San Francisco del Rincón, Guanajuato y que opera en México, Estados Unidos, Canadá, Brasil, Panamá, Costa Rica y El Salvador.</p>
 
 		<div class="tenis">
