@@ -1,0 +1,48 @@
+*{
+	margin: 1px;
+	padding: 1px;
+}
+img#logo{
+	width: 180px;
+	height: 120px;
+}
+
+div#logo1{
+	background: #000;
+}
+div#boton1{
+	margin-top: 200px;
+}
+
+
+h2{
+	background: black;
+}
+
+body{
+
+	background-position: 500px 300px;
+	background-repeat: no-repeat;
+}
+
+.boton_admin{
+	margin-left: 200px;
+	font-size: 25px;
+	font-family: Verdana;
+	font-weight: bold;
+}
+.boton_admin:hover{
+    color: #1883ba;
+    background-color: #E8EF14;
+  }
+
+.boton_comprador{
+	margin-left: 840px;
+	font-size: 25px;
+	font-family: Verdana;
+	font-weight: bold;
+}
+.boton_comprador:hover{
+    color: #1883ba;
+    background-color: #E8EF14;
+  }

@@ -1,0 +1,69 @@
+
+*{
+	margin: 1px;
+	padding: 1px;
+}
+img#facebook1{
+	text-orientation: center;
+	height: 80px;
+	width: 80px;
+
+}
+img#whats{
+	height: 85px;
+	width: 85px;
+
+}
+div#logo{
+	background: #635C5B ;
+	margin-bottom: 50px;
+
+}
+
+div#pie{
+	background: #84C5D1;
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+div#logo1{
+	margin-left: 500px;
+}
+
+div#redes{
+	background: #DCE4E5;
+}
+
+
+img#facebook{
+	height: 60px;
+	width: 60px;
+}
+
+img#logo{
+	opacity: .4
+	margin-left: 100px;
+}
+
+img#P{
+	margin-left: 550px;
+	height: 350px;
+	width: 190;
+}
+
+
+h2{
+
+	height: 100px;
+	background: green;
+	font-family: Verdana;
+	font-weight: bold;
+	color: yellow;
+	font-style: oblique;
+}
+
+p{
+	font-family: Candara;
+	font-weight: bold;
+	color: black;
+}
